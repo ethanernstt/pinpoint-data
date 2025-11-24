@@ -1,0 +1,34 @@
+[
+    {
+        "id": "beach",
+        "name": "Tempe Beach Park",
+        "category": "Park",
+        "address": "Mill Ave and Rio Salado Pkwy, Tempe, AZ",
+        "latitude": 33.429685,
+        "longitude": -111.939976
+    },
+    {
+        "id": "coffee",
+        "name": "Cartel Coffee Lab",
+        "category": "Coffee",
+        "address": "810 S Ash Ave, Tempe, AZ",
+        "latitude": 33.421120,
+        "longitude": -111.942600
+    },
+    {
+        "id": "gammage",
+        "name": "ASU Gammage",
+        "category": "Theater",
+        "address": "1200 S Forest Ave, Tempe, AZ",
+        "latitude": 33.416230,
+        "longitude": -111.938047
+    },
+    {
+        "id": "marketplace",
+        "name": "Tempe Marketplace",
+        "category": "Shopping Center",
+        "address": "2000 E Rio Salado Pkwy, Tempe, AZ",
+        "latitude": 33.433189,
+        "longitude": -111.904182
+    }
+]
