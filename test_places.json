@@ -5,15 +5,17 @@
         "category": "Park",
         "address": "Mill Ave and Rio Salado Pkwy, Tempe, AZ",
         "latitude": 33.429685,
-        "longitude": -111.939976
+        "longitude": -111.939976,
+        "rating": 4.6
     },
     {
         "id": "coffee",
-        "name": "Cartel Coffee Lab",
+        "name": "Cartel Roasting Co",
         "category": "Coffee",
         "address": "810 S Ash Ave, Tempe, AZ",
         "latitude": 33.421120,
-        "longitude": -111.942600
+        "longitude": -111.942600,
+        "rating": 4.4
     },
     {
         "id": "gammage",
@@ -21,7 +23,8 @@
         "category": "Theater",
         "address": "1200 S Forest Ave, Tempe, AZ",
         "latitude": 33.416230,
-        "longitude": -111.938047
+        "longitude": -111.938047,
+        "rating": 4.6
     },
     {
         "id": "marketplace",
@@ -29,7 +32,8 @@
         "category": "Shopping Center",
         "address": "2000 E Rio Salado Pkwy, Tempe, AZ",
         "latitude": 33.433189,
-        "longitude": -111.904182
+        "longitude": -111.904182,
+        "rating": 4.6
     },
     {
         "id": "park",
@@ -37,6 +41,7 @@
         "category": "Park",
         "address": "Mill Ave. and, S All America Way, Tempe, AZ",
         "latitude": 33.372330,
-        "longitude": -111.936535
+        "longitude": -111.936535,
+        "rating": 4.5
     }  
 ]
