@@ -30,5 +30,13 @@
         "address": "2000 E Rio Salado Pkwy, Tempe, AZ",
         "latitude": 33.433189,
         "longitude": -111.904182
-    }
+    },
+    {
+        "id": "park",
+        "name": "Kiwanis Park",
+        "category": "Park",
+        "address": "Mill Ave. and, S All America Way, Tempe, AZ",
+        "latitude": 33.372330,
+        "longitude": -111.936535
+    }  
 ]
