@@ -2,7 +2,7 @@
     {
         "id": "beach",
         "name": "Tempe Beach Park",
-        "category": "Park",
+        "category": "Parks",
         "address": "Mill Ave and Rio Salado Pkwy, Tempe, AZ",
         "latitude": 33.429685,
         "longitude": -111.939976
@@ -34,7 +34,7 @@
     {
         "id": "park",
         "name": "Kiwanis Park",
-        "category": "Park",
+        "category": "Parks",
         "address": "Mill Ave. and, S All America Way, Tempe, AZ",
         "latitude": 33.372330,
         "longitude": -111.936535
